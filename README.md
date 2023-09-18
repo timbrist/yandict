@@ -1,4 +1,4 @@
-# Yan
+# yandict
 Language Learning Dictionary for Advance English Learner
 
 Users can find words with explanations,  
